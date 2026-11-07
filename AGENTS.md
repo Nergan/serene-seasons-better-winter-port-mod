@@ -1,6 +1,6 @@
 # Serene Seasons Better Winter — инструкции для AI-агентов
 
-Порт Fabric 1.21.1 мода Maeiro. Лицензия GPL-3.0-only, её не менять и не закрывать код. Общие правила — `../AGENTS.md`.
+Порт Fabric 1.21.1 мода Maeiro. Лицензия GPL-3.0-only, её не менять и не закрывать код. Общие правила — `../../AGENTS.md`.
 
 Идентификатор мода `serenebetterwinter`: в идентификаторе нет подчёркиваний. У оригинала был `serene_better_winter`.
 
