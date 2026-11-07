@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "serenebetterwinter",
+  "version": "${version}",
+  "name": "Serene Seasons Better Winter",
+  "description": "Hides deciduous leaves in late autumn and winter. Fabric 1.21.1 port of Serene Seasons Better Winter.",
+  "authors": ["Maeiro", "Serene Seasons Better Winter contributors"],
+  "contact": {
+    "homepage": "https://github.com/Nergan/serene-seasons-better-winter-mod",
+    "issues": "https://github.com/Nergan/serene-seasons-better-winter-mod/issues",
+    "sources": "https://github.com/Maeiro/Serene-Seasons-Better-Winter"
+  },
+  "license": "GPL-3.0-only",
+  "icon": "assets/serenebetterwinter/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.serenebetterwinter.mod.WinterMod"],
+    "client": ["com.serenebetterwinter.mod.WinterClient"]
+  },
+  "mixins": ["serenebetterwinter.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "fabric-api": "*",
+    "fabric-language-kotlin": ">=1.13.2+kotlin.2.1.20",
+    "sereneseasons": "*"
+  }
+}
