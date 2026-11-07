@@ -8,7 +8,7 @@
 
 У Embeddium нет сборки Fabric, поэтому этот путь рендера в порт не вошёл. Скрытие листьев в LOD Distant Horizons тоже не вошло. Для ванильного рендера листья невидимы, в том числе когда Sodium спрашивает форму отрисовки блока. Сезонные цвета LOD — это другой мод, Serene Seasons x Distant Horizons.
 
-Нужны [Serene Seasons](https://modrinth.com/mod/serene-seasons) Fabric 1.21.1, Fabric API и Fabric Language Kotlin. Мод ставится и на клиент, и на сервер.
+Нужны [Serene Seasons](https://modrinth.com/mod/serene-seasons) Fabric 1.21.1 и его [GlitchCore](https://modrinth.com/mod/glitchcore), Fabric API и Fabric Language Kotlin. Страница релиза на GitHub содержит эти jar. Мод ставится и на клиент, и на сервер.
 
 ## Сборка
 

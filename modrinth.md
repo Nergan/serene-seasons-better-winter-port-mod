@@ -2,4 +2,4 @@ Fabric 1.21.1 port of Serene Seasons Better Winter. Deciduous leaves hide in lat
 
 `config/serenebetterwinter-common.toml` chooses the sub-seasons. Embeddium and Distant Horizons LOD hiding are not in this Fabric port.
 
-Requires Serene Seasons Fabric 1.21.1, Fabric API and Fabric Language Kotlin. License: GPL-3.0-only. Upstream: https://github.com/Maeiro/Serene-Seasons-Better-Winter
+Requires Serene Seasons Fabric 1.21.1, GlitchCore, Fabric API and Fabric Language Kotlin. License: GPL-3.0-only. Upstream: https://github.com/Maeiro/Serene-Seasons-Better-Winter

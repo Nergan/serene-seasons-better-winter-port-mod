@@ -8,7 +8,7 @@ Deciduous leaves disappear in late autumn and winter. Spruce and anything with j
 
 Embeddium has no Fabric build, so that renderer path is not in this port. Distant Horizons LOD leaf hiding is not in this port either. The leaves are invisible to the vanilla renderer, including when Sodium asks for the block render shape. Seasonal LOD colors are a different mod, Serene Seasons x Distant Horizons.
 
-Required: [Serene Seasons](https://modrinth.com/mod/serene-seasons) Fabric 1.21.1, Fabric API and Fabric Language Kotlin. Put the mod on the client and the server.
+Required: [Serene Seasons](https://modrinth.com/mod/serene-seasons) Fabric 1.21.1, which brings [GlitchCore](https://modrinth.com/mod/glitchcore), plus Fabric API and Fabric Language Kotlin. The GitHub release page for this port includes those jars. Put the mod on the client and the server.
 
 ## Building
 
