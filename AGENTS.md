@@ -9,3 +9,7 @@
 Embeddium и LOD Distant Horizons в этот порт не входят: у Embeddium нет Fabric, а миксин оригинала целится в Forge-классы Distant Horizons. Скрытие листа идёт через `getRenderShape`, снег и подвесы — через `ModelBlockRenderer.tesselateBlock`.
 
 Сборка — Gradle 8.11, JDK 21. McnCDN нет.
+
+## Modrinth
+
+На Modrinth у каждой пары версии Minecraft и загрузчика одна версия: самая новая. Релиз снимает прежние версии этого слота и ставит на их место текущий jar.
